@@ -79,13 +79,7 @@ Documentation
 If you're new to StreamSecurity and want to get started, feel free to [contact us](https://www.stream.security/contact-us) or checkout our [documentation](https://docs.streamsec.io) website.
 
 
-Community
----------
-- Join StreamSecurity community on [Slack](https://join.slack.com/t/lightlyticscommunity/shared_invite/zt-1f7dk2yo7-xBTOU_o4tOnAjoFxfHVF8Q)
-
-
 Getting Help
 ------------
 Please use these resources for getting help:
-- [Slack](https://join.slack.com/t/lightlyticscommunity/shared_invite/zt-1f7dk2yo7-xBTOU_o4tOnAjoFxfHVF8Q)
 - Email: support@stream.security
